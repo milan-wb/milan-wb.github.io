@@ -76,3 +76,16 @@ global h3{
   background-repeat: no-repeat;
   padding-left: 20px;
 }
+global blockquote{
+  background-color: #FFE597;
+}
+ul{
+  list-style-type: square;
+}
+global a{
+    color: #7C1A00;
+    font-weight: bold;
+}
+global a:hover{
+  background-color: #FFE597;
+}
